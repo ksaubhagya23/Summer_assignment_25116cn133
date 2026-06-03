@@ -2,3 +2,5 @@
 • Print Multiplication Table of a given number 
 • Factorial of given number 
 • Count digits of a number 
+
+check please 
