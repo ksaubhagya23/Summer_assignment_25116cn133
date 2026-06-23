@@ -1,4 +1,4 @@
 * Merge two sorted arrays
-* Voting eligibility system
-* ATM simulation
-* Quiz Application 
+* find common characters
+* sort names alphabetically
+* sort words by length 
